@@ -80,8 +80,8 @@ ng serve -o
 
 - Angular: http://localhost:4200  
 - Backend: http://localhost:7001  
-- API: http://localhost:7001/serviaseo-backend/api  
-- JSF: http://localhost:7001/serviaseo-jsf/verificarCliente.xhtml  
+- API: http://localhost:7001/api  
+- JSF: http://localhost:7001/jsf-cliente/
 
 ---
 
